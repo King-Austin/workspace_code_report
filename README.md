@@ -10,3 +10,7 @@ File with the highest line number,
 
 Made by programmer for programmers.
 #Opensource
+
+# HOW TO RUN.
+Place the script file on the workspace / folder of intrest.
+Then execute the script via the terminal to see the output.
